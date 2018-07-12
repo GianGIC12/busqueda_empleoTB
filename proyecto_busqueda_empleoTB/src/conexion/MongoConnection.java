@@ -24,9 +24,9 @@ public class MongoConnection {
     public MongoConnection() {
 
         gestor = "mdb.todobusco.com";
-        bd = "mdb_todobusco_prod";
-        user = "u_todobusco_prod";
-        pass = "Shai7te5aesheu";
+        bd = "mdb_empleobusco_prod";
+        user = "u_empleobusco_prod";
+        pass = "ahtaeshieHoo3o";
 
     }
 
